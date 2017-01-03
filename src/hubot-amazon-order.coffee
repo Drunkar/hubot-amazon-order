@@ -40,7 +40,7 @@ module.exports = (robot) ->
               if err
                 message = "エラーっぽい"
 
-        msg.send message[]
+        msg.send message
 
 
 isUrl = (str) ->
