@@ -1,0 +1,23 @@
+{
+  "name": "hubot-amazon-order",
+  "version": "1.0.0",
+  "description": "Order item on amazon.co.jp via https://github.com/jsoizo/amazon-jp-auto-orderer.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drunkar/hubot-amazon-order"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Drunkar",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/Drunkar/hubot-amazon-order/issues"
+  },
+  "homepage": "https://github.com/Drunkar/hubot-amazon-order"
+}
